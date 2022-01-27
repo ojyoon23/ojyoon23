@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olivia Yoon
-- 👀 I’m interested in data analysis/science in the marketing field.
+- 👀 I’m interested in data analytics/science in the marketing field, product analytics, and people analytics. 
 - 🌱 I’m currently learning Statistics at UC Davis, and Technology Management as a minor.
 - 📫 How to reach me? "ojyoon23@gmail.com"
 
